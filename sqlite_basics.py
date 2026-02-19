@@ -1,5 +1,3 @@
-#Just a test
-
 import sqlite3
 
 # Connect to SQLite (in memory for testing)
